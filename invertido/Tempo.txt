@@ -1,0 +1,12 @@
+Tempos desta run: 
+14/12/2022 00:51:30 - Começando compilação
+14/12/2022 00:51:32 - Começando 1 execução
+14/12/2022 01:00:42 - Começando 2 execução
+14/12/2022 01:09:49 - Começando 3 execução
+14/12/2022 01:18:53 - Começando 4 execução
+14/12/2022 01:27:57 - Começando 5 execução
+14/12/2022 01:37:03 - Começando 6 execução
+14/12/2022 01:46:08 - Começando 7 execução
+14/12/2022 01:55:13 - Começando 8 execução
+14/12/2022 02:04:19 - Começando 9 execução
+14/12/2022 02:13:28 - Começando 10 execução
